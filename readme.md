@@ -60,7 +60,7 @@
     <a href="/docs/readme_np.md">नेपाली</a>
   </p>
 </p>
-<p align="center">¿Te gusta este proyecto? ¡Por favor, considera <a href="https://www.paypal.me/anuraghazra">donar</a> para ayudar a mejorarlo!
+<p align="center">¿Te gusta este proyecto? ¡Por favor, considera <a href="https://cafecito.app/eichenbergerche">donar</a> para ayudar a mejorarlo!
 
 # Características
 
@@ -370,7 +370,7 @@ No obstante, si estás utilizando este proyecto y estás feliz con él o simplem
 
 - Darme créditos cuando estés utilizando github-readme-stats en tu README, añadiendo un link a este repositorio :D
 - Dándole una estrella y compartiendo el proyecto :rocket:
-- [![paypal.me/anuraghazra](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/anuraghazra) - Puedes hacerme una única donación a través de PayPal. Probablemente me compraré un ~~café~~ té. :tea:
+- [![paypal.me/anuraghazra](https://ionicabizau.github.io/badges/paypal.svg)](https://cafecito.app/eichenbergerche) - Puedes hacerme una única donación a través de PayPal. Probablemente me compraré un ~~café~~ té. :tea:
 
 ¡Gracias! :heart:
 
