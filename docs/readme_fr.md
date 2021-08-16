@@ -33,10 +33,12 @@
     ·
     <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Demander une nouveauté</a>
   </p>
-  <p align="center">
+ <p align="center">
     <a href="/docs/readme_fr.md">Français</a>
     ·
     <a href="/docs/readme_cn.md">简体中文</a>
+    ·
+    <a href="/docs/readme_en.md">English</a>
     ·
     <a href="/docs/readme_es.md">Español</a>
     ·
@@ -52,9 +54,10 @@
     .
     <a href="/docs/readme_nl.md">Nederlands</a>
     .
+    <a href="/docs/readme_tr.md">Türkçe</a>
+    .
     <a href="/docs/readme_np.md">नेपाली</a>
   </p>
-</p>
 <p align="center">Vous aimez ce projet? Pensez <a href="https://www.paypal.me/anuraghazra">à faire un don</a> pour l'améliorer!
 
 # Features
