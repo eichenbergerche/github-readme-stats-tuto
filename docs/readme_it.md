@@ -34,9 +34,11 @@
     <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Richiedi una nuova funzionalità</a>
   </p>
   <p align="center">
-    <a href="/docs/readme_fr.md">Français </a>
+    <a href="/docs/readme_fr.md">Français</a>
     ·
     <a href="/docs/readme_cn.md">简体中文</a>
+    ·
+    <a href="/docs/readme_en.md">English</a>
     ·
     <a href="/docs/readme_es.md">Español</a>
     ·
@@ -51,6 +53,8 @@
     <a href="/docs/readme_kr.md">한국어</a>
     .
     <a href="/docs/readme_nl.md">Nederlands</a>
+    .
+    <a href="/docs/readme_tr.md">Türkçe</a>
     .
     <a href="/docs/readme_np.md">नेपाली</a>
   </p>
